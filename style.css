@@ -1,0 +1,37 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    color: blue;
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-1 {
+    color: black;
+    text-align: left;
+    padding: 10px;
+}
+
+.text-2 {
+    color: black;
+    text-align: right;
+    padding: 10px;
+}
+
+.footer {
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
